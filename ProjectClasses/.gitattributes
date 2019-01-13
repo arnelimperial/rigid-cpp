@@ -1,0 +1,4 @@
+## languag usage
+
+*.cc linguist-language=cpp
+*.C linguist-language=cpp
