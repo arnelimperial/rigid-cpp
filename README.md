@@ -12,5 +12,9 @@ Random console apps, snippets and mini-projects created for implementing Algorit
 * IDE - Code::Blocks
 ---
 
+##### CC0 1.0 Universal
+
 ### Coded by:
 Arnel Gonzales Imperial
+
+
